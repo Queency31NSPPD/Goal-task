@@ -39,6 +39,9 @@ border-radius: 10px;
     #increment-btn{
         background: darkred;
     }
+    #double-btn{
+        background: darkred;
+    }
 #save-btn{
     background: darkgreen;
 }
